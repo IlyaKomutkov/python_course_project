@@ -1,0 +1,10 @@
+numpy==1.23.3
+pandas==1.4.4
+plotly==5.10.0
+selenium==4.4.3
+beautifulsoup4==4.11.1
+matplotlib==3.6.1
+wordcloud==1.8.2.2
+nbformat==5.7.0
+dash==2.7.1
+gunicorn
